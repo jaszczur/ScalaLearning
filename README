@@ -1,4 +1,4 @@
 Just some fun with Scala - nothing useful.
 
-This project uses SBT as a build tool. You can modify sources in Eclipse with the Scala plugin. Remember to pick up plugin with version compatible with exact Scala build (see project/plugins/build.sbt). Next run 'sbt eclipse'. That's all.
+This project uses SBT as a build tool. You can modify sources in Eclipse with the Scala plugin. Remember to pick up plugin with version compatible with exact Scala build (see project/plugins/build.sbt). Next run 'sbt eclipse' - that will generate Eclipse project files. Ypu can now import the project to ypur workspace.
 
